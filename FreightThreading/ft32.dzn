@@ -1,0 +1,27 @@
+% =================================================================================== %
+% Minizinc data used in the paper "Freight Train Threading with Different Algorithms" %
+% Authors: Ilankaikone Senthooran, Mark Wallace and Leslie De Koninck                 %
+% Last modified: February 2nd, 2015                                                   %
+% =================================================================================== %
+
+/**********************************************************************************
+ * Copyright (c) 2015,  Ilankaikone Senthooran, Mark Wallace and Leslie De Koninck
+ *                                       
+ * All rights reserved. 
+ *
+ * This code is released under the terms and conditions of the GNU GENERAL
+ * PUBLIC LICENSE V.3. Refer file COPYING in the main directory.
+ **********************************************************************************/
+
+nfreight_trains = 32;																		
+freight_trains = [|			1	,	12	|	2	,	12	|	3	,	12	|	4	,	12	|
+			1	,	13	|	2	,	13	|	3	,	13	|	4	,	13	|
+			1	,	14	|	2	,	14	|	3	,	14	|	4	,	14	|
+			1	,	15	|	2	,	15	|	3	,	15	|	4	,	15	|
+			1	,	12	|	2	,	12	|	3	,	12	|	4	,	12	|
+			1	,	13	|	2	,	13	|	3	,	13	|	4	,	13	|
+			1	,	14	|	2	,	14	|	3	,	14	|	4	,	14	|
+			1	,	15	|	2	,	15	|	3	,	15	|	4	,	15	|];
+
+%speed_factor = [1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2];
+speed_factor = [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1];

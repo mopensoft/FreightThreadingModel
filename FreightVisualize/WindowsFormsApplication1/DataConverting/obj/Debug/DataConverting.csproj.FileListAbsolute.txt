@@ -1,0 +1,9 @@
+D:\Temp\Projects\WindowsFormsApplication1\DataConverting\bin\Debug\DataConverting.exe.config
+D:\Temp\Projects\WindowsFormsApplication1\DataConverting\bin\Debug\DataConverting.exe
+D:\Temp\Projects\WindowsFormsApplication1\DataConverting\bin\Debug\DataConverting.pdb
+D:\Temp\Projects\WindowsFormsApplication1\DataConverting\obj\Debug\DataConverting.csprojResolveAssemblyReference.cache
+D:\Temp\Projects\WindowsFormsApplication1\DataConverting\obj\Debug\DataConverting.FormMain.resources
+D:\Temp\Projects\WindowsFormsApplication1\DataConverting\obj\Debug\DataConverting.Properties.Resources.resources
+D:\Temp\Projects\WindowsFormsApplication1\DataConverting\obj\Debug\DataConverting.csproj.GenerateResource.Cache
+D:\Temp\Projects\WindowsFormsApplication1\DataConverting\obj\Debug\DataConverting.exe
+D:\Temp\Projects\WindowsFormsApplication1\DataConverting\obj\Debug\DataConverting.pdb

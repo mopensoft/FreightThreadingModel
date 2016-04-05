@@ -1,0 +1,5 @@
+nfreight_trains = 4;																		
+freight_trains = [|			1	,	12	|	2	,	13	|	3	,	15	|	4	,	12	|];
+
+%speed_factor = [1,2,3,1];
+speed_factor = [1,1,1,1];
